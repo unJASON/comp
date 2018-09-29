@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ObjectList>
+	<Object>
+		<Rect height="100" width="33" x="66" y="32"/>
+	</Object>
+	<Object>
+		<Rect height="108" width="38" x="15" y="31"/>
+	</Object>
+</ObjectList>
